@@ -1,3 +1,4 @@
 [submodule "portables"]
 	path = portables
 	url = git@github.com:ngoelles/portables.git
+	branch = release/v1.0.0
